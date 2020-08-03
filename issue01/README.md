@@ -13,6 +13,6 @@
   * https://www.w3.org/Graphics/SVG/WG/wiki/Path_Enhancements
   * https://github.com/freder/bezier-spline
   * http://schepers.cc/getting-to-the-point
-  * 
+  * https://github.com/freder/bezier-spline/issues/1
 * breaking with markov
 
