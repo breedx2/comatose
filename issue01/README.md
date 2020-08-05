@@ -22,7 +22,7 @@ COMATOSE issue 01
 
 An experimental examination and lo-fi showcase of
 algorithmic, generative, and computer-based
-works.
+works and technique.
 
 COMATOSE provides free and open access to the code and resources used to
 build this artifact and the works contained within.  For the digital
@@ -30,7 +30,7 @@ version of this artifact and links to the source code, please visit
 https://github.com/breedx2/comatose/.
 
 What we've been listening to recently:
-* Laima Persik's "Dimensions" mixes https://www.mixcloud.com/LaimaPersik/
+* Laima Persik's "Dimensions" project https://www.mixcloud.com/LaimaPersik/
 * The Institue of Spectra-Sonic Sound https://www.mixcloud.com/spectrasonicsound/
 * Dead Voices on Air "The Isolation Tapes"
 * SomaFM (strangely, after many years forgotten) https://somafm.com
@@ -41,12 +41,17 @@ COMATOSE welcomes your feedback. Please email letters, questions,
 ideas, and contributions to comatose-zine@noisybox.net, or open an
 issue in the github repository.
 
-// a brief statement of inspiration
+There is inspiration to be found in the vast infinite expanse
+and in the infinitesimal minutiae! Challenge awaits at the interplay
+of the two. Experiment, fail, learn, repeat. Break things and
+make things!
+
+Thank you for spending time with this production.
 
 created by jason plumb (c) 2020
 
 
-# page 3
+## page 3
 
 COMATOSE issue 01
 an exploration of generative vector-based drawing
@@ -54,3 +59,51 @@ an exploration of generative vector-based drawing
 TODO: TOC
 
 *
+
+## page 4
+
+POOR VECTOR
+
+The poor, neglected vector. The vector is such a powerful tool, but
+it is often overlooked by digital artists. The power of vector graphics
+originates from its representation as pure mathematical construct (a
+line going from here to there, a circle with this diameter, a box filled
+with that color, maybe even a curve). Contrast that with raster images (bitmaps),
+that just put it all out there -- "Here's a gazillion pixels and all
+the colors". Sure, pretty easy for OUR brains to understand, but where's
+the sophistication?
+
+In contemporary desktop computing environments, fonts and many desktop icons
+are built with vector graphics. The mathematical formulas behind the vectors
+allow a rendering engine to show them at any size with no compromise in quality.
+This is why fonts in a web browser can scale smoothly, but when you zoom
+in on a raster image it begins to look pixelated and disgusting.
+No pixelation with vector images!
+
+The most common formats for vector images are postscript (.ps or .eps),
+PDF (portable document format), or SVG (scalable vector graphics). SVG
+is widely supported on the web and there are many tools to support creation
+and manipulation of svg files. d3.js is all over the web for data visualization,
+and popular creative coding environments like Processing and p5.js have
+some amount of support for reading/creating/writing SVG files.
+
+So why aren't there more creative uses of svg in the algorithmic
+and generative art world? I'm still not sure. Perhaps it is complexity,
+perhaps it is tooling support. There definitely is prior art and the
+exploration of svg as a target format isn't exactly new. A quick search
+turns up xxx and yyy
+
+
+## page 5
+
+## page 6
+
+## page 7
+
+## page 8
+
+## page 9
+
+## page 10
+
+## page 11
