@@ -4,6 +4,7 @@
 
 * markov chain
 * not much algorithmic/artful svg out there
+* the browser as platform
 * galdr (the incantation)
 * state machine
 * skritcher
@@ -80,23 +81,43 @@ This is why fonts in a web browser can scale smoothly, but when you zoom
 in on a raster image it begins to look pixelated and disgusting.
 No pixelation with vector images!
 
-The most common formats for vector images are postscript (.ps or .eps),
+The most common formats for vector images are postscript ( / hot methods??.ps or .eps),
 PDF (portable document format), or SVG (scalable vector graphics). SVG
 is widely supported on the web and there are many tools to support creation
 and manipulation of svg files. d3.js is all over the web for data visualization,
 and popular creative coding environments like Processing and p5.js have
-some amount of support for reading/creating/writing SVG files.
+some amount of support for reading/creating/writing SVG files (yet
+the common tutorials/examples don't spend much time on this).
 
 So why aren't there more creative uses of svg in the algorithmic
 and generative art world? I'm still not sure. Perhaps it is complexity,
-perhaps it is tooling support. There definitely is prior art and the
-exploration of svg as a target format isn't exactly new. A quick search
-turns up xxx and yyy
+perhaps it is tooling support. Maybe people just don't care, and plain
+old fashioned images are just good enough.  
 
+There definitely exists prior art around the exploration of svg as a target
+format...so this isn't exactly new. For example, Mike Brondbjerg has built
+somewhat cubist (triangulist?) portraits of American presidents using algorithms
+and processing. Joshua Davis uses vectors in his artful corporate commissions.
+There are other examples to be found, but the vast majority of svg work
+seems to be making flashy graphics for the web or for corporate/brand design.
+
+Perhaps the use is more widespread than we realize, and many creators simply
+do not discuss their technique for philosophical/ideological reasons (form over
+technique, aesthetic over method). I am skeptical of this. I think that
+the vector is ignored or underutilized due to the reasons above, but
+also for its sterility. Its smooth, perfect lines are often too clean,
+too flawless. In its robotic cleanliness, its infinite scalability, the
+vector's power is also its downfall.
+
+Our eyes, our minds, they seek out and gravitate toward the flawed. Razor
+sharp symmetry is a novelty whose interest quickly fades. Can we have it
+both ways?
 
 ## page 5
 
 ## page 6
+
+
 
 ## page 7
 
